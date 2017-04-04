@@ -1,2 +1,3 @@
 # Hello-world
-My try to use GitHub;
+try to use GitHub
+cheer up
