@@ -1,3 +1,4 @@
 # Hello-world
-try to use GitHub
-cheer up
+
+My try to use GitHub;
+I'm happy to learn new things;
